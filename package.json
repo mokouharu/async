@@ -1,0 +1,20 @@
+{
+  "name": "async-demo",
+  "version": "0.0.1",
+  "description": "异步处理",
+  "main": "index.html",
+  "scripts": {
+    "server": "json-server ./data/db.js"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "huijiezhao",
+
+  "dependencies": {
+    "json-server": "^0.12.0"
+  },
+  "files": [
+    "README.md"
+  ]
+}
